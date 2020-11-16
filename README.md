@@ -1,4 +1,4 @@
-# PeatherPy - This exercise highlights the use of Python Pandas and using visual to showcase results.
+# WeatherPy - This exercise highlights the use of Python Pandas and using visual to showcase results.
 ![WorldMap](https://github.com/dsalisbury1141/My-WeatherPy-Deployment/blob/master/Images/WorldMap.jpg)
 
 This was a great learning exercise 
